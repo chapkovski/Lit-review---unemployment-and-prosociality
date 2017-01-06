@@ -1,4 +1,4 @@
-#an article by Halvo
+#an article by Halvorsen about re
 # an experimental data
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1851364
 
