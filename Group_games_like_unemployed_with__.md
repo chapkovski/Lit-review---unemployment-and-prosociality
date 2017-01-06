@@ -7,7 +7,7 @@
 * Three recipients had to fill in a short questionnaire and they differed only in their answers to three final questions, so from the Dictators' point of view they were categorized as:
     * industrious
     * lazy
-    * no information (questions were not filled in)
+    * no information (questions were omitted)
 
 Each donor was given a five dollar show-up fee and ten dollars to use in the experiment. Each donor read some information about the recipient, then privately and anonymously gave any amount of the ten dollar pie of his or her choosing – from zero to ten dollars – to the welfare recipient and kept the rest. Each recipient earned the sum of the donations from the donors she was matched with.
 
