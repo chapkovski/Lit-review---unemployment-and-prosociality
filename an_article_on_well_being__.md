@@ -1,5 +1,5 @@
 #an article on well-being and level of welfare support 
-
+\cite{baslevent_discerning_2011}
 Baslevent, C. and Kirmanoglu, H., 2011. Discerning self‐interested behaviour in attitudes towards welfare state responsibilities across Europe. International Journal of Social Welfare, 20(4), pp.344-352.
 A phrase completion scale (0 to 10)
  how much responsibility do you think governments should have to:
