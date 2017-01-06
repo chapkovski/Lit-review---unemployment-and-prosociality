@@ -1,4 +1,8 @@
 #dissertation from FU
+http://www.diss.fu-berlin.de/diss/servlets/MCRFileNodeServlet/FUDISS_derivate_000000013593/0_dissertation_AK_vfinal_online.pdf?hosts=local
+
+Krause, A., 2013. Empirical Studies of Unemployment: Search Behavior, Reintegration and Prevention (Doctoral dissertation, Freie Universität Berlin).
+
 
  Risk attitudes: How do you estimate yourself personally: are you generally prepared
 to take risks or do you try to avoid risks?
