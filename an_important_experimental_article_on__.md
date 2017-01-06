@@ -13,9 +13,6 @@ Buitrago, G., Gueth, W. and Levati, M.V., 2009. On the relation between impulses
 
 
 
-Buitrago, G., Güth, W. and Levati, M.V., 2006. Does Anticipated Aid Create the Need it Wants to Avoid?: An Experimental Investigation. Max-Planck-Inst. for Research into Economic Systems, Strategic Interaction Group.
-
-
 According to the benchmark solution, expectations of positive help should
 not change player 2’s optimal behavior. However, there exists evidence showing
 that anticipation of help crowds out incentives to work (see Krueger and Meyer,
