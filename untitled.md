@@ -1,17 +1,21 @@
 #current state of affairs
-Van Der Heijden, Peter GM, Ger van Gils, JAN Bouts, and Joop Hox. 2000. “A Compar-
-ison of Randomized Response, Computer-Assisted Self-Interview, and Face-to-Face
-Direct Questioning Eliciting Sensitive Information in the Context of Welfare and Un-
-employment Benefit.” Sociological Methods & Research 28:505–537.
 
 
-On the psychology of poverty.
-Haushofer J1, Fehr E2.
-Author information
-Abstract
-Poverty remains one of the most pressing problems facing the world; the mechanisms through which poverty arises and perpetuates itself, however, are not well understood. Here, we examine the evidence for the hypothesis that poverty may have particular psychological consequences that can lead to economic behaviors that make it difficult to escape poverty. The evidence indicates that poverty causes stress and negative affective states which in turn may lead to short-sighted and risk-averse decision-making, possibly by limiting attention and favoring habitual behaviors at the expense of goal-directed ones. Together, these relationships may constitute a feedback loop that contributes to the perpetuation of poverty. We conclude by pointing toward specific gaps in our knowledge and outlining poverty alleviation programs that this mechanism suggests.
-Copyright © 2014, American Association for the Advancement of Science.
-https://www.ncbi.nlm.nih.gov/pubmed/24855262
+Baslevent, C. and Kirmanoglu, H., 2011. Discerning self‐interested behaviour in attitudes towards welfare state responsibilities across Europe. International Journal of Social Welfare, 20(4), pp.344-352.
+
+
+https://www.researchgate.net/profile/Cynthia_Lee4/publication/276948739_Content_Cause_and_Consequences_of_Job_Insecurity_A_Theory-Based_Measure_and_Substantive_Test/links/5617317408ae1a88800367dd.pdf
+
+This research assessed the causes and consequences of joh insecurity
+using a new theory-hased measure incorporating recent conceptual arguments.
+We also compared the measure's reliability and construct
+validity to those of two existing global measures of joh insecurity. Results
+indicated that personal, joh, and organizational realities associated
+with a perceived lack of control are correlated with measured job
+insecurity. Joh insecurity in turn leads to attitudinal reactions—
+intentions to quit, reduced commitment, and reduced satisfaction.
+These results generally support the utility of our new measure and
+provide important directions for future research.
 
 
 Moral consequences of becoming unemployed
@@ -33,14 +37,7 @@ Meta-analytic techniques were used to estimate how job insecurity relates to its
 http://sci-hub.cc/http://psycnet.apa.org/index.cfm?fa=search.displayRecord&uid=2002-01632-005
 
 Evidence from an Experiment on Charity to Welfare Recipients: Reciprocity, Altruism and the Empathic Responsiveness Hypothesis*
-Authors
-Christina M. Fong
-First published: 2 July 2007Full publication history
-DOI: 10.1111/j.1468-0297.2007.02076.xView/save citation
-Cited by: 39 articlesCitation tools
-Article has an altmetric score of 6
-*  I am grateful to Erika Burkhalter for outstanding research assistance; to George Loewenstein, Jörgen Weibull, Lise Vesterlund, Urs Fischbacher, Linda Skitka, Alan Durell, Julie Downs, John Miller, Peter Thompson and seminar participants at Carnegie Mellon University, Boston University, and Wharton for helpful comments and discussion; and to Marcela Fields, Terence Chau and Tanya Ziegler for research assistance. Financial support was provided by a Behavioral Economics Small Grant from the Russell Sage Foundation and an Innovation Seed Grant from Carnegie Mellon University.
-Abstract
+
 
 This article investigates the determinants of generosity in an experiment on charity to real-life welfare recipients. It tests the effects of various measures of unconditional altruism and conditional or reciprocal altruism. The results show strong support for conditional or reciprocal altruism. However, people who are self-reported unconditional altruists make offers that are highly elastic with respect to the apparent worthiness of the recipient. One interpretation of this is that self-reported unconditional altruists have combined desires to help others and to reciprocate; unconditional altruism and reciprocal altruism may not be independent motives. I refer to this combination as empathic responsiveness.
 
