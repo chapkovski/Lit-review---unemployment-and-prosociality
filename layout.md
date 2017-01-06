@@ -1,6 +1,5 @@
 task_description_1_2_3__.md
 Group_games_like_unemployed_with__.md
-citetitle_Fong_2007__.tex
 an_important_experimental_article_on__.md
 dissertation_from_FU_http_www__.md
 an_article_by_Halvorsen_about__.md
