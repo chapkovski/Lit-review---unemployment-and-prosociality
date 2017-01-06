@@ -1,5 +1,18 @@
 #an important experimental article on charity effect on beneficiary
 ftp://papers.econ.mpg.de/esi/discussionpapers/2006-24.pdf
+mentally investigate the relation between helpers’ behavior
+and poor recipients’ reaction to aid. We distinguish two treatments differing in whether the causes of
+neediness are verifiable or not. Helping behavior does not vary significantly between treatments, but is
+positively correlated with dictator giving, suggesting idiosyncratic attitudes to help. Needy subjects are
+unaffected by anticipated help, but react optimally to chance.
+© 2008 Elsevier Inc. All rights reserved.
+
+http://sci-hub.cc/http://www.sciencedirect.com/science/article/pii/S1053535708001509
+
+Buitrago, G., Gueth, W. and Levati, M.V., 2009. On the relation between impulses to help and causes of neediness: An experimental study. The Journal of Socio-Economics, 38(1), pp.80-88.
+
+
+
 Buitrago, G., Güth, W. and Levati, M.V., 2006. Does Anticipated Aid Create the Need it Wants to Avoid?: An Experimental Investigation. Max-Planck-Inst. for Research into Economic Systems, Strategic Interaction Group.
 
 
