@@ -1,4 +1,20 @@
-#an article by Halvorsen about re
+#an article by Halvorsen about re-employment
+
+
+Psychological difficulties, however, do not
+necessarily right themselves with re-employment.
+This may be due to the aftermath of previous
+spells of unemployment (Fineman
+1987). Fagin (1979) maintains that there
+could be lasting personality changes as a result
+of prolonged unemployment. For example, feelings
+of low self-esteem can persist even after
+re-employment (Kaufman 1982). Other researchers
+have maintained that returning to
+paid work can be distressing after longer periods
+of unemployment (Liem & Liem 1988).
+
+
 # an experimental data
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1851364
 
