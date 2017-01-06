@@ -1,6 +1,6 @@
 # "Group games, like unemployed with employed, refugees with residents etc."
 \citet{Fong_2007}, 
-\cite{Fong}
+\citep{Fong}
 \citetitle{Fong_2007)
 Evidence from an Experiment on Charity to Welfare Recipients: Reciprocity, Altruism and the Empathic Responsiveness Hypothesis*
 
