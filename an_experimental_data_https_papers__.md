@@ -14,6 +14,13 @@ have maintained that returning to
 paid work can be distressing after longer periods
 of unemployment (Liem & Liem 1988).
 
+## results of Halvorsen
+It has
+been demonstrated, however, that differences
+in psychological distress between the recurrently
+unemployed and those insecurely reemployed
+are not significant. 
+
 
 # an experimental data
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1851364
