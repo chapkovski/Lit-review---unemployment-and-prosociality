@@ -15,5 +15,4 @@ Each donor was given a five dollar show-up fee and ten dollars to use in the exp
 * randomly provided direct information about the recipient's attachment to the labour force – have large and very robust positive effects on offers.
 
 * average donations to lazy, no-info, and industrios were: 1.8, 	3.2, and 	2.78 correspondigly.
-
-The attitudinal measure of unconditional altruism also had significant and robust positive effects on offers in the pooled sample. However, results across treatment conditions exhibited a surprising and very robust pattern that is inconsistent with unconditional altruism. Those who scored high on the humanitarianism measure were highly responsive to the perceived worthiness of recipients. Their median offer to the recipient who appeared industrious was $5.00 out of a $10.00 pie, while the median offer of those who scored low on the measure was only $1.00. In contrast, when the recipient appeared lazy, the median offer from those who scored high on the measure was only $1.00 and did not differ from the median offer of those who scored low on the measure.
+* Those donators who were categorized as Humanitarians along  Katz-Hass Humanitarianism-Egalitarianism scale, donated  $5.00 out of a $10.00 pie to industrious recipients, and only 1$ to 'lazy' ones.
