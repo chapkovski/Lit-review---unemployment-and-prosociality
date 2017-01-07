@@ -1,4 +1,5 @@
 #dissertation from FU
+\cite{krause_empirical_2013}
 http://www.diss.fu-berlin.de/diss/servlets/MCRFileNodeServlet/FUDISS_derivate_000000013593/0_dissertation_AK_vfinal_online.pdf?hosts=local
 
 Krause, A., 2013. Empirical Studies of Unemployment: Search Behavior, Reintegration and Prevention (Doctoral dissertation, Freie Universität Berlin).
