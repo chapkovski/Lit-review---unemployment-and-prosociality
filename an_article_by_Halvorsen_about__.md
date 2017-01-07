@@ -1,6 +1,6 @@
 #an article by Halvorsen about re-employment: Impact of Re-employment on Psychological Distress among Long-term Unemployed
 
-
+\cite{Halvorsen_1998}
 Psychological difficulties, however, do not
 necessarily right themselves with re-employment.
 This may be due to the aftermath of previous
