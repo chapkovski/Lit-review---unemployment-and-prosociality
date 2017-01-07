@@ -3,6 +3,5 @@ Group_games_like_unemployed_with__.md
 An_experimental_paper_of_charity__.md
 dissertation_from_FU_http_www__.md
 an_article_by_Halvorsen_about__.md
-Discerning_self_interested_behaviour_in__.md
 section_Discerning_self_interested_behaviour__.tex
 untitled.md
