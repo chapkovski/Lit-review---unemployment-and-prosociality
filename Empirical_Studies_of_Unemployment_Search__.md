@@ -1,31 +1,14 @@
 #[Empirical Studies of Unemployment: Search Behavior, Reintegration and Prevention](http://www.diss.fu-berlin.de/diss/servlets/MCRFileNodeServlet/FUDISS_derivate_000000013593/0_dissertation_AK_vfinal_online.pdf?hosts=local) \cite{krause_empirical_2013}.
 
+* Risk attitudes: How do you estimate yourself personally: are you generally prepared to take risks or do you try to avoid risks?
+* Time preferences: How do you regard yourself as an individual: are you someone who generally gets impatient or someone who always has a lot of patience?
+* Trust: How do you regard yourself as an individual: are you someone who generally trusts others or are you someone who does not trust others?
+* Reciprocity: To what extent does the following statement apply to you? I am prepared to accept costs to help someone who has helped me previously.
 
-Krause, A., 2013. 
-
-
- Risk attitudes: How do you estimate yourself personally: are you generally prepared
-to take risks or do you try to avoid risks?
-❼ Time preferences: How do you regard yourself as an individual: are you someone
-who generally gets impatient or someone who always has a lot of patience?
-❼ Trust: How do you regard yourself as an individual: are you someone who generally
-trusts others or are you someone who does not trust others?
-❼ Reciprocity: To what extent does the following statement apply to you? I am prepared
-to accept costs to help someone who has helped me previously.
-Responses to the questions on risk attitudes, time preferences and trust
 
 ##results of diss from FU:
-DV: a change of finidng a job if you don't have one before that. (probit).
-
-Risk -.009
-(0.003)∗∗∗
-Time 0.004
-(0.003)
-Trust 0.003
-(0.004)
-Reciprocity 0.003
-(0.005)
-
+She measured 
+DV: a chance of finding a job if you don't have one before that. (Probit model)
 so, no results with an exception of risk attitude
 we find support for the hypothesis that more risk averse individuals are
 less selective, i.e. that they have lower reservation wages – which then lead to higher
@@ -44,3 +27,14 @@ interview. Despite descriptive differences between natives and migrants, which a
 some extent present in the case of the three other preferences and attitudes, these do not
 appear to significantly influence the employment probability – at least not beyond those
 characteristics which are also controlled for in our regressions.
+
+
+Risk -.009
+(0.003)∗∗∗
+Time 0.004
+(0.003)
+Trust 0.003
+(0.004)
+Reciprocity 0.003
+(0.005)
+
