@@ -6,7 +6,7 @@
 * Reciprocity: To what extent does the following statement apply to you? I am prepared to accept costs to help someone who has helped me previously.
 
 
-##results of diss from FU:
+##Results:
 She measured 
 DV: a chance of finding a job if you don't have one before that. (Probit model)
 so, no results with an exception of risk attitude
