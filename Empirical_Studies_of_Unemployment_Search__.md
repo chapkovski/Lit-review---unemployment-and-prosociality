@@ -1,5 +1,5 @@
 #[Empirical Studies of Unemployment: Search Behavior, Reintegration and Prevention](http://www.diss.fu-berlin.de/diss/servlets/MCRFileNodeServlet/FUDISS_derivate_000000013593/0_dissertation_AK_vfinal_online.pdf?hosts=local) \cite{krause_empirical_2013}.
-She measured the chance of finding jobs in a population 
+She measured the chance of finding jobs in a population of unemployed. Several questions regarding their attitudes were asked:
 * Risk attitudes: How do you estimate yourself personally: are you generally prepared to take risks or do you try to avoid risks?
 * Time preferences: How do you regard yourself as an individual: are you someone who generally gets impatient or someone who always has a lot of patience?
 * Trust: How do you regard yourself as an individual: are you someone who generally trusts others or are you someone who does not trust others?
@@ -7,34 +7,12 @@ She measured the chance of finding jobs in a population
 
 
 ##Results:
-She measured 
-DV: a chance of finding a job if you don't have one before that. (Probit model)
-so, no results with an exception of risk attitude
-we find support for the hypothesis that more risk averse individuals are
-less selective, i.e. that they have lower reservation wages – which then lead to higher
-employment probabilities.
+No results with an exception of risk attitude. 
+More risk averse individuals are less selective, i.e. that they have lower reservation wages – which then lead to higher employment probabilities.
+Time preferences, trust and  reciprocity *do not affect* the probability of being employed
 
-Furthermore, we investigate in more detail the influence of time preferences, trust and
-positive reciprocity on the probability of being employed at the first interview. In those
-additional regressions, we individually include the three different measures for each of the
-preferences and attitudes.24 Interestingly, and independently of the measure used, none
-of the three characteristics exhibits significant explanatory power in these regressions.
-The coefficient estimates on the indicator for second generation migrants remain virtually
-the same in all regressions. It thus appears that among the preferences and attitudes
-we examine, only the measures of risk attitudes enter statistically significantly in the
-regressions. That is, risk attitudes explain the probability of being employed at the first
-interview. Despite descriptive differences between natives and migrants, which are to
-some extent present in the case of the three other preferences and attitudes, these do not
-appear to significantly influence the employment probability – at least not beyond those
-characteristics which are also controlled for in our regressions.
-
-
-Risk -.009
-(0.003)∗∗∗
-Time 0.004
-(0.003)
-Trust 0.003
-(0.004)
-Reciprocity 0.003
-(0.005)
+Risk -.009 (0.003)∗∗∗
+Time 0.004 (0.003)
+Trust 0.003 (0.004)
+Reciprocity 0.003 (0.005)
 
