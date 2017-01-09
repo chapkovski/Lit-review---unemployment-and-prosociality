@@ -1,5 +1,5 @@
 #[Empirical Studies of Unemployment: Search Behavior, Reintegration and Prevention](http://www.diss.fu-berlin.de/diss/servlets/MCRFileNodeServlet/FUDISS_derivate_000000013593/0_dissertation_AK_vfinal_online.pdf?hosts=local) \cite{krause_empirical_2013}.
-
+She measured the chance of finding jobs in a population 
 * Risk attitudes: How do you estimate yourself personally: are you generally prepared to take risks or do you try to avoid risks?
 * Time preferences: How do you regard yourself as an individual: are you someone who generally gets impatient or someone who always has a lot of patience?
 * Trust: How do you regard yourself as an individual: are you someone who generally trusts others or are you someone who does not trust others?
