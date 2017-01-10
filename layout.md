@@ -1,4 +1,3 @@
-task_description_1_2_3__.md
 Group_games_like_unemployed_with__.md
 Empirical_Studies_of_Unemployment_Search__.md
 Impact_of_Re_employment_on__.md
