@@ -13,4 +13,4 @@ Each donor was given a five dollar show-up fee and ten dollars to use in the exp
 * randomly provided direct information about the recipient's attachment to the labour force – have large and very robust positive effects on offers.
 
 * average donations to lazy, no-info, and industrios were: 1.8, 	3.2, and 	2.78 correspondigly.
-* Those donators who were categorized as Humanitarians along  Katz-Hass Humanitarianism-Egalitarianism scale, donated  $5.00  out of a $10.00  pie  to  industrious  recipients, and only 1$  to  'lazy'  ones.
+* Those donators who were categorized as Humanitarians along  Katz-Hass Humanitarianism-Egalitarianism scale, donated  5.00  out of a 10.00  pie  to  industrious  recipients, and only 1$  to  'lazy'  ones.
