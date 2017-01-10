@@ -12,9 +12,6 @@ More risk averse individuals are less selective, i.e. that they have lower reser
 Time preferences, trust and  reciprocity **do not affect** the probability of being employed
 
 Risk **-.009 (0.003)**
-
 Time 0.004 (0.003)
-
 Trust 0.003 (0.004)
-
 Reciprocity 0.003 (0.005)
