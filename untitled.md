@@ -1,22 +1,6 @@
 #current state of affairs
 
 
-Baslevent, C. and Kirmanoglu, H., 2011. Discerning self‐interested behaviour in attitudes towards welfare state responsibilities across Europe. International Journal of Social Welfare, 20(4), pp.344-352.
-
-
-https://www.researchgate.net/profile/Cynthia_Lee4/publication/276948739_Content_Cause_and_Consequences_of_Job_Insecurity_A_Theory-Based_Measure_and_Substantive_Test/links/5617317408ae1a88800367dd.pdf
-
-This research assessed the causes and consequences of joh insecurity
-using a new theory-hased measure incorporating recent conceptual arguments.
-We also compared the measure's reliability and construct
-validity to those of two existing global measures of joh insecurity. Results
-indicated that personal, joh, and organizational realities associated
-with a perceived lack of control are correlated with measured job
-insecurity. Joh insecurity in turn leads to attitudinal reactions—
-intentions to quit, reduced commitment, and reduced satisfaction.
-These results generally support the utility of our new measure and
-provide important directions for future research.
-
 
 Moral consequences of becoming unemployed
 Abigail Barr,a,1 Luis Miller,b and Paloma Ubedab
