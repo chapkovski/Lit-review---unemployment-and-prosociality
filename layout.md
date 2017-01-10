@@ -1,5 +1,5 @@
 Group_games_like_unemployed_with__.md
-begin_deluxetable_ccccccccccccccccc_Keep_a__.tex
+begin_deluxetable_ccccc_Keep_a__.tex
 Empirical_Studies_of_Unemployment_Search__.md
 Impact_of_Re_employment_on__.md
 An_experimental_paper_of_charity__.md
