@@ -1,0 +1,51 @@
+\begin{deluxetable}{ccccccccccccccccc}
+
+%% Keep a portrait orientation
+
+%% Over-ride the default font size
+%% Use Default (12pt)
+
+%% Use \tablewidth{?pt} to over-ride the default table width.
+%% If you are unhappy with the default look at the end of the
+%% *.log file to see what the default was set at before adjusting
+%% this value.
+
+%% This is the title of the table.
+\tablecaption{Table 1}
+
+%% This command over-rides LaTeX's natural table count
+%% and replaces it with this number.  LaTeX will increment 
+%% all other tables after this table based on this number
+\tablenum{1}
+
+%% The \tablehead gives provides the column headers.  It
+%% is currently set up so that the column labels are on the
+%% top line and the units surrounded by ()s are in the 
+%% bottom line.  You may add more header information by writing
+%% another line between these lines. For each column that requries
+%% extra information be sure to include a \colhead{text} command
+%% and remember to end any extra lines with \\ and include the 
+%% correct number of &s.
+\tablehead{\colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} \\ 
+\colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} & \colhead{} } 
+
+%% All data must appear between the \startdata and \enddata commands
+\startdata
+wb_no_other & 5 & 5 & 2 & 3 & 4 & 1 & 1 & 1 & 1 & 5 & 5 & 5 & 4 & 4 & 5 & 1 \\
+IncreasePchosen & Yes & No & Yes & No & Yes & No & Yes & No & No & No & Yes & Yes & Yes & No & Yes & No \\
+IncreasePWB & No & No & Yes & No & No & Yes & No & Yes & No & No & Yes & Yes & Yes & No & No & Yes \\
+lesscostWB & Yes & No & Yes & Yes & No & No & No & No & Yes & Yes & No & Yes & Yes & Yes & Yes & Yes \\
+gender & Female & Male & Male & Male & Male & Male & Male & Male & Male & Female & Male & Male & Female & Female & Female & Male \\
+\enddata
+
+%% Include any \tablenotetext{key}{text}, \tablerefs{ref list},
+%% or \tablecomments{text} between the \enddata and 
+%% \end{deluxetable} commands
+
+%% General table comment marker
+\tablecomments{фыва}
+
+%% General table references marker
+\tablerefs{фыва}
+
+\end{deluxetable}
