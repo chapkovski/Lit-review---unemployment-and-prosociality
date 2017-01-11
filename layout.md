@@ -6,4 +6,3 @@ Discerning_self_interested_behaviour_in__.md
 begin_deluxetable_lcccc_Keep_a__.tex
 untitled.md
 No_security_A_meta_analysis__.md
-10c7c.html
