@@ -1,5 +1,6 @@
 # Evidence from an Experiment on Charity to Welfare Recipients: Reciprocity, Altruism and the Empathic Responsiveness Hypothesis 
 
+\cite{Fong_2007}
 
 * The experiment was an n-donor dictator game in which multiple donors were matched with one real-life welfare recipient.
 * There were three recipients (thus 3 distinct treatments). All three recipients were single African-American women with dependent children who did not have full-time jobs, received government assistance, had annual household incomes of less than $25,000, and were less than 55 years old. 
