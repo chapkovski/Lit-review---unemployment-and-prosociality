@@ -3,6 +3,7 @@ Two-person game, with inequality of endowments. A 'poor' guy could choose the le
 
 ##Hypothesis
 Expectations that dictators give less to those who show low efforts and willingness to leave the poverty.
+
 ##Results
 No effect on the behavior of either dictator or recipient.
 
