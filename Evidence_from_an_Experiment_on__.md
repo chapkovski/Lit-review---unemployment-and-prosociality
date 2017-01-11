@@ -12,6 +12,7 @@
 Each donor was given a five dollar show-up fee and ten dollars to use in the experiment. Each donor read some information about the recipient, then privately and anonymously gave any amount of the ten dollar pie of his or her choosing – from zero to ten dollars – to the welfare recipient and kept the rest. Each recipient earned the sum of the donations from the donors she was matched with.
 
 ##Results
+
 * randomly provided direct information about the recipient's attachment to the labour force – have large and very robust positive effects on offers.
 
 * average donations to lazy, no-info, and industrios were: 1.8, 	3.2, and 	2.78 correspondigly.
