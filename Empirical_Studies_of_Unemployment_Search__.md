@@ -1,4 +1,4 @@
-#[Empirical Studies of Unemployment: Search Behavior, Reintegration and Prevention](http://www.diss.fu-berlin.de/diss/servlets/MCRFileNodeServlet/FUDISS_derivate_000000013593/0_dissertation_AK_vfinal_online.pdf?hosts=local) \cite{krause_empirical_2013}.
+#[Empirical Studies of Unemployment: Search Behavior, Reintegration and Prevention](http://www.diss.fu-berlin.de/diss/servlets/MCRFileNodeServlet/FUDISS_derivate\_000000013593/0\_dissertation\_AK\_vfinal\_online.pdf?hosts=local) \cite{krause_empirical_2013}.
 She measured the chance of finding jobs in a population of unemployed. Several questions regarding their attitudes were asked:
 
 * Risk attitudes: How do you estimate yourself personally: are you generally prepared to take risks or do you try to avoid risks?
