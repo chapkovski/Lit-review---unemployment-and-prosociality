@@ -11,6 +11,7 @@ She measured the chance of finding jobs in a population of unemployed. Several q
 No results with an exception of risk attitude. 
 More risk averse individuals are less selective, i.e. that they have lower reservation wages – which then lead to higher employment probabilities.
 Time preferences, trust and  reciprocity **do not affect** the probability of being employed
+
 ##OLS Coefs:
 Risk **-.009 (0.003)**
 
